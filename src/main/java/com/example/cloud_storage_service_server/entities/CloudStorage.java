@@ -61,30 +61,34 @@ public class CloudStorage {
         return null;
     }
     //ищет файл
-    private List<String> searchFile(File[] fileArr){
+    private String searchFile(File[] fileArr){
         if(fileArr==null)
             return null;
         for(File file : fileArr){
             if (file.getName().equals("text.txt")){
-                return Collections.singletonList(getTextFromFile(file));
+                return getTextFromFile(file);
             }
         }
         LOGGER.debug("Текстовый файл не найден");
         return null;
     }
     //навигация по папкам
-    public List<String> storageNavigation(String id, String date, String time){
+    public List<String> storageNavigation(String id, String date){
         if (id!=null){
-            if (date==null && time==null){
+            if (date==null){
                 return listFileToString(getFilesInFolder("\\" + id));
             }
-            if (time == null)
-                return listFileToString(getFilesInFolder("\\" + id + "\\" + date));
-            return searchFile(getFilesInFolder("\\" + id + "\\" + date + "\\" + time));
+            return listFileToString(getFilesInFolder("\\" + id + "\\" + date));
         }
-        LOGGER.debug("id == null");
+        LOGGER.debug("id empty");
         return null;
     }
+    public String getFileText(String id, String date, String time){
+        if (id!=null && date!=null && time!=null)
+            return searchFile(getFilesInFolder("\\" + id + "\\" + date + "\\" + time));
+        return null;
+    }
+
 
     private void writeFile(File file, String text){
         try(FileWriter writer = new FileWriter(file, false))
