@@ -18,6 +18,7 @@ bin/
 
 # Log file
 *.log
+logs/
 
 ### IntelliJ IDEA ###
 .idea
