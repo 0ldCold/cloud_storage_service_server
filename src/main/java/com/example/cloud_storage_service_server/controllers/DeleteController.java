@@ -5,11 +5,11 @@ import com.example.cloud_storage_service_server.entities.CloudStorage;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
-@RequestMapping("/delete")
+@RequestMapping(path="/delete")
 public class DeleteController {
     private final CloudStorage cloudStorage = new CloudStorage();
 
-    @DeleteMapping("/{id}/{date}/{time}")
+    @DeleteMapping(path="/{id}/{date}/{time}")
     public void deleteTime(@PathVariable String id,
                            @PathVariable String date,
                            @PathVariable String time) {

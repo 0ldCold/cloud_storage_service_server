@@ -7,11 +7,11 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
-@RequestMapping("/create")
+@RequestMapping(path="/create")
 public class CreateController {
     private final CloudStorage cloudStorage = new CloudStorage();
 
-    @PostMapping("/{id}/{date}/{time}")
+    @PostMapping(path="/{id}/{date}/{time}")
     public void createText(@RequestBody String text,
                            @PathVariable String id,
                            @PathVariable String date,
