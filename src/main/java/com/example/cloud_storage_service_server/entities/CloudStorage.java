@@ -114,8 +114,12 @@ public class CloudStorage {
             LOGGER.warn("Файла " + file.getAbsolutePath() + " не существует");
             return;
         }
-        if(!FileSystemUtils.deleteRecursively(file))
-            LOGGER.warn("Файл "+file.getAbsolutePath()+" не создан");
+        if(FileSystemUtils.deleteRecursively(file)){
+            if(storageNavigation(id, date).isEmpty()){
+                file = new File(storagePath+"\\"+id+"\\"+date);
+                FileSystemUtils.deleteRecursively(file);
+            }
+        } else LOGGER.warn("Файл "+file.getAbsolutePath()+" не удален");
     }
 
 
