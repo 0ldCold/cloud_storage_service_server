@@ -1,0 +1,1078 @@
+2021-06-07 11:06:21.315  INFO 12884 --- [main] e.c.CloudStorageServiceServerApplication : Starting CloudStorageServiceServerApplication using Java 16.0.1 on OldCold-PC with PID 12884 (D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server\build\classes\java\main started by Professional in D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server)
+2021-06-07 11:06:21.317  INFO 12884 --- [main] e.c.CloudStorageServiceServerApplication : No active profile set, falling back to default profiles: default
+2021-06-07 11:06:21.884  INFO 12884 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8000 (http)
+2021-06-07 11:06:21.890  INFO 12884 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-07 11:06:21.891  INFO 12884 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-07 11:06:21.946  INFO 12884 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-07 11:06:21.946  INFO 12884 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 594 ms
+2021-06-07 11:06:22.193  INFO 12884 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8000 (http) with context path ''
+2021-06-07 11:06:22.202  INFO 12884 --- [main] e.c.CloudStorageServiceServerApplication : Started CloudStorageServiceServerApplication in 1.12 seconds (JVM running for 1.616)
+2021-06-07 11:06:22.202  INFO 12884 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-06-07 11:06:22.203  INFO 12884 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-07 11:06:30.892  INFO 12884 --- [http-nio-8000-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-07 11:06:30.892  INFO 12884 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-07 11:06:30.893  INFO 12884 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2021-06-07 11:07:00.541  INFO 12060 --- [main] e.c.CloudStorageServiceServerApplication : Starting CloudStorageServiceServerApplication using Java 16.0.1 on OldCold-PC with PID 12060 (D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server\build\classes\java\main started by Professional in D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server)
+2021-06-07 11:07:00.543  INFO 12060 --- [main] e.c.CloudStorageServiceServerApplication : No active profile set, falling back to default profiles: default
+2021-06-07 11:07:01.104  INFO 12060 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8000 (http)
+2021-06-07 11:07:01.110  INFO 12060 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-07 11:07:01.110  INFO 12060 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-07 11:07:01.164  INFO 12060 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-07 11:07:01.164  INFO 12060 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 586 ms
+2021-06-07 11:07:01.412  INFO 12060 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8000 (http) with context path ''
+2021-06-07 11:07:01.420  INFO 12060 --- [main] e.c.CloudStorageServiceServerApplication : Started CloudStorageServiceServerApplication in 1.105 seconds (JVM running for 1.618)
+2021-06-07 11:07:01.422  INFO 12060 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-06-07 11:07:01.422  INFO 12060 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-07 11:07:04.889  INFO 12060 --- [http-nio-8000-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-07 11:07:04.890  INFO 12060 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-07 11:07:04.890  INFO 12060 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2021-06-07 12:05:43.687  INFO 532 --- [main] e.c.CloudStorageServiceServerApplication : Starting CloudStorageServiceServerApplication using Java 16.0.1 on OldCold-PC with PID 532 (D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server\build\classes\java\main started by Professional in D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server)
+2021-06-07 12:05:43.704  INFO 532 --- [main] e.c.CloudStorageServiceServerApplication : No active profile set, falling back to default profiles: default
+2021-06-07 12:05:44.319  INFO 532 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8000 (http)
+2021-06-07 12:05:44.326  INFO 532 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-07 12:05:44.326  INFO 532 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-07 12:05:44.376  INFO 532 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-07 12:05:44.377  INFO 532 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 638 ms
+2021-06-07 12:05:44.635  INFO 532 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8000 (http) with context path ''
+2021-06-07 12:05:44.644  INFO 532 --- [main] e.c.CloudStorageServiceServerApplication : Started CloudStorageServiceServerApplication in 1.188 seconds (JVM running for 1.703)
+2021-06-07 12:05:44.645  INFO 532 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-06-07 12:05:44.646  INFO 532 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-07 12:05:54.706  INFO 532 --- [http-nio-8000-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-07 12:05:54.707  INFO 532 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-07 12:05:54.707  INFO 532 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2021-06-07 12:09:42.684  INFO 17344 --- [main] e.c.CloudStorageServiceServerApplication : Starting CloudStorageServiceServerApplication using Java 16.0.1 on OldCold-PC with PID 17344 (D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server\build\classes\java\main started by Professional in D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server)
+2021-06-07 12:09:42.686  INFO 17344 --- [main] e.c.CloudStorageServiceServerApplication : No active profile set, falling back to default profiles: default
+2021-06-07 12:09:43.455  INFO 17344 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8000 (http)
+2021-06-07 12:09:43.464  INFO 17344 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-07 12:09:43.464  INFO 17344 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-07 12:09:43.584  INFO 17344 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-07 12:09:43.584  INFO 17344 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 843 ms
+2021-06-07 12:09:43.851  INFO 17344 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8000 (http) with context path ''
+2021-06-07 12:09:43.860  INFO 17344 --- [main] e.c.CloudStorageServiceServerApplication : Started CloudStorageServiceServerApplication in 1.632 seconds (JVM running for 2.271)
+2021-06-07 12:09:43.861  INFO 17344 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-06-07 12:09:43.863  INFO 17344 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-07 12:09:55.632  INFO 17344 --- [http-nio-8000-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-07 12:09:55.632  INFO 17344 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-07 12:09:55.633  INFO 17344 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2021-06-07 12:12:18.251  INFO 19720 --- [main] e.c.CloudStorageServiceServerApplication : Starting CloudStorageServiceServerApplication using Java 16.0.1 on OldCold-PC with PID 19720 (D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server\build\classes\java\main started by Professional in D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server)
+2021-06-07 12:12:18.254  INFO 19720 --- [main] e.c.CloudStorageServiceServerApplication : No active profile set, falling back to default profiles: default
+2021-06-07 12:12:18.820  INFO 19720 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8000 (http)
+2021-06-07 12:12:18.826  INFO 19720 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-07 12:12:18.826  INFO 19720 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-07 12:12:18.874  INFO 19720 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-07 12:12:18.874  INFO 19720 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 582 ms
+2021-06-07 12:12:19.118  INFO 19720 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8000 (http) with context path ''
+2021-06-07 12:12:19.126  INFO 19720 --- [main] e.c.CloudStorageServiceServerApplication : Started CloudStorageServiceServerApplication in 1.11 seconds (JVM running for 1.59)
+2021-06-07 12:12:19.127  INFO 19720 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-06-07 12:12:19.128  INFO 19720 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-07 12:12:23.643  INFO 19720 --- [http-nio-8000-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-07 12:12:23.643  INFO 19720 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-07 12:12:23.643  INFO 19720 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2021-06-07 12:12:23.691 ERROR 19720 --- [http-nio-8000-exec-1] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+
+java.lang.NullPointerException: null
+	at java.base/java.util.Objects.requireNonNull(Objects.java:208)
+	at java.base/java.util.Arrays$ArrayList.<init>(Arrays.java:4136)
+	at java.base/java.util.Arrays.asList(Arrays.java:4121)
+	at com.example.cloud_storage_service_server.entities.CloudStorage.getFilesInFolder(CloudStorage.java:18)
+	at com.example.cloud_storage_service_server.controllers.ViewController.viewUser(ViewController.java:16)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:197)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:141)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:894)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1063)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:893)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1707)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+
+2021-06-07 12:12:26.643 ERROR 19720 --- [http-nio-8000-exec-2] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+
+java.lang.NullPointerException: null
+	at java.base/java.util.Objects.requireNonNull(Objects.java:208)
+	at java.base/java.util.Arrays$ArrayList.<init>(Arrays.java:4136)
+	at java.base/java.util.Arrays.asList(Arrays.java:4121)
+	at com.example.cloud_storage_service_server.entities.CloudStorage.getFilesInFolder(CloudStorage.java:18)
+	at com.example.cloud_storage_service_server.controllers.ViewController.viewUser(ViewController.java:16)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:197)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:141)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:894)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1063)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:893)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1707)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+
+2021-06-07 12:13:01.732 ERROR 19720 --- [http-nio-8000-exec-3] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+
+java.lang.NullPointerException: null
+	at java.base/java.util.Objects.requireNonNull(Objects.java:208)
+	at java.base/java.util.Arrays$ArrayList.<init>(Arrays.java:4136)
+	at java.base/java.util.Arrays.asList(Arrays.java:4121)
+	at com.example.cloud_storage_service_server.entities.CloudStorage.getFilesInFolder(CloudStorage.java:18)
+	at com.example.cloud_storage_service_server.controllers.ViewController.viewUser(ViewController.java:16)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:197)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:141)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:894)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1063)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:893)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1707)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+
+2021-06-07 12:13:05.066 ERROR 19720 --- [http-nio-8000-exec-4] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+
+java.lang.NullPointerException: null
+	at java.base/java.util.Objects.requireNonNull(Objects.java:208)
+	at java.base/java.util.Arrays$ArrayList.<init>(Arrays.java:4136)
+	at java.base/java.util.Arrays.asList(Arrays.java:4121)
+	at com.example.cloud_storage_service_server.entities.CloudStorage.getFilesInFolder(CloudStorage.java:18)
+	at com.example.cloud_storage_service_server.controllers.ViewController.viewUser(ViewController.java:16)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:197)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:141)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:894)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1063)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:893)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1707)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+
+2021-06-07 12:13:08.303  INFO 20628 --- [main] e.c.CloudStorageServiceServerApplication : Starting CloudStorageServiceServerApplication using Java 16.0.1 on OldCold-PC with PID 20628 (D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server\build\classes\java\main started by Professional in D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server)
+2021-06-07 12:13:08.305  INFO 20628 --- [main] e.c.CloudStorageServiceServerApplication : No active profile set, falling back to default profiles: default
+2021-06-07 12:13:08.867  INFO 20628 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8000 (http)
+2021-06-07 12:13:08.874  INFO 20628 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-07 12:13:08.874  INFO 20628 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-07 12:13:08.923  INFO 20628 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-07 12:13:08.924  INFO 20628 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 583 ms
+2021-06-07 12:13:09.170  INFO 20628 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8000 (http) with context path ''
+2021-06-07 12:13:09.179  INFO 20628 --- [main] e.c.CloudStorageServiceServerApplication : Started CloudStorageServiceServerApplication in 1.105 seconds (JVM running for 1.618)
+2021-06-07 12:13:09.180  INFO 20628 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-06-07 12:13:09.182  INFO 20628 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-07 12:13:12.159  INFO 20628 --- [http-nio-8000-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-07 12:13:12.159  INFO 20628 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-07 12:13:12.160  INFO 20628 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2021-06-07 12:14:24.404  INFO 15600 --- [main] e.c.CloudStorageServiceServerApplication : Starting CloudStorageServiceServerApplication using Java 16.0.1 on OldCold-PC with PID 15600 (D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server\build\classes\java\main started by Professional in D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server)
+2021-06-07 12:14:24.406  INFO 15600 --- [main] e.c.CloudStorageServiceServerApplication : No active profile set, falling back to default profiles: default
+2021-06-07 12:14:24.963  INFO 15600 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8000 (http)
+2021-06-07 12:14:24.970  INFO 15600 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-07 12:14:24.970  INFO 15600 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-07 12:14:25.018  INFO 15600 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-07 12:14:25.018  INFO 15600 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 577 ms
+2021-06-07 12:14:25.278  INFO 15600 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8000 (http) with context path ''
+2021-06-07 12:14:25.287  INFO 15600 --- [main] e.c.CloudStorageServiceServerApplication : Started CloudStorageServiceServerApplication in 1.112 seconds (JVM running for 1.625)
+2021-06-07 12:14:25.288  INFO 15600 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-06-07 12:14:25.288  INFO 15600 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-07 12:14:27.838  INFO 15600 --- [http-nio-8000-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-07 12:14:27.838  INFO 15600 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-07 12:14:27.839  INFO 15600 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2021-06-07 12:14:27.864 ERROR 15600 --- [http-nio-8000-exec-1] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+
+java.lang.NullPointerException: null
+	at java.base/java.util.Objects.requireNonNull(Objects.java:208)
+	at java.base/java.util.Arrays$ArrayList.<init>(Arrays.java:4136)
+	at java.base/java.util.Arrays.asList(Arrays.java:4121)
+	at com.example.cloud_storage_service_server.entities.CloudStorage.getFilesInFolder(CloudStorage.java:18)
+	at com.example.cloud_storage_service_server.controllers.ViewController.viewUser(ViewController.java:16)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:197)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:141)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:894)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1063)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:893)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1707)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+
+2021-06-07 12:16:38.612  INFO 16372 --- [main] e.c.CloudStorageServiceServerApplication : Starting CloudStorageServiceServerApplication using Java 16.0.1 on OldCold-PC with PID 16372 (D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server\build\classes\java\main started by Professional in D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server)
+2021-06-07 12:16:38.615  INFO 16372 --- [main] e.c.CloudStorageServiceServerApplication : No active profile set, falling back to default profiles: default
+2021-06-07 12:16:39.389  INFO 16372 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8000 (http)
+2021-06-07 12:16:39.397  INFO 16372 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-07 12:16:39.397  INFO 16372 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-07 12:16:39.446  INFO 16372 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-07 12:16:39.447  INFO 16372 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 761 ms
+2021-06-07 12:16:39.708  INFO 16372 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8000 (http) with context path ''
+2021-06-07 12:16:39.716  INFO 16372 --- [main] e.c.CloudStorageServiceServerApplication : Started CloudStorageServiceServerApplication in 1.462 seconds (JVM running for 1.98)
+2021-06-07 12:16:39.718  INFO 16372 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-06-07 12:16:39.719  INFO 16372 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-07 12:16:56.613  INFO 16372 --- [http-nio-8000-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-07 12:16:56.613  INFO 16372 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-07 12:16:56.614  INFO 16372 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2021-06-07 12:18:26.880  INFO 11500 --- [main] e.c.CloudStorageServiceServerApplication : Starting CloudStorageServiceServerApplication using Java 16.0.1 on OldCold-PC with PID 11500 (D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server\build\classes\java\main started by Professional in D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server)
+2021-06-07 12:18:26.882  INFO 11500 --- [main] e.c.CloudStorageServiceServerApplication : No active profile set, falling back to default profiles: default
+2021-06-07 12:18:27.458  INFO 11500 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8000 (http)
+2021-06-07 12:18:27.465  INFO 11500 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-07 12:18:27.465  INFO 11500 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-07 12:18:27.515  INFO 11500 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-07 12:18:27.515  INFO 11500 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 599 ms
+2021-06-07 12:18:27.764  INFO 11500 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8000 (http) with context path ''
+2021-06-07 12:18:27.773  INFO 11500 --- [main] e.c.CloudStorageServiceServerApplication : Started CloudStorageServiceServerApplication in 1.126 seconds (JVM running for 1.632)
+2021-06-07 12:18:27.774  INFO 11500 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-06-07 12:18:27.775  INFO 11500 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-07 12:18:29.475  INFO 11500 --- [http-nio-8000-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-07 12:18:29.475  INFO 11500 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-07 12:18:29.475  INFO 11500 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2021-06-07 12:22:21.331  INFO 10756 --- [main] e.c.CloudStorageServiceServerApplication : Starting CloudStorageServiceServerApplication using Java 16.0.1 on OldCold-PC with PID 10756 (D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server\build\classes\java\main started by Professional in D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server)
+2021-06-07 12:22:21.333  INFO 10756 --- [main] e.c.CloudStorageServiceServerApplication : No active profile set, falling back to default profiles: default
+2021-06-07 12:22:21.888  INFO 10756 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8000 (http)
+2021-06-07 12:22:21.894  INFO 10756 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-07 12:22:21.895  INFO 10756 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-07 12:22:21.942  INFO 10756 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-07 12:22:21.942  INFO 10756 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 575 ms
+2021-06-07 12:22:22.185  INFO 10756 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8000 (http) with context path ''
+2021-06-07 12:22:22.194  INFO 10756 --- [main] e.c.CloudStorageServiceServerApplication : Started CloudStorageServiceServerApplication in 1.091 seconds (JVM running for 1.588)
+2021-06-07 12:22:22.194  INFO 10756 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-06-07 12:22:22.196  INFO 10756 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-07 12:22:27.753  INFO 10756 --- [http-nio-8000-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-07 12:22:27.754  INFO 10756 --- [http-nio-8000-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-07 12:22:27.754  INFO 10756 --- [http-nio-8000-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2021-06-07 12:24:27.499  INFO 18080 --- [main] e.c.CloudStorageServiceServerApplication : Starting CloudStorageServiceServerApplication using Java 16.0.1 on OldCold-PC with PID 18080 (D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server\build\classes\java\main started by Professional in D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server)
+2021-06-07 12:24:27.502  INFO 18080 --- [main] e.c.CloudStorageServiceServerApplication : No active profile set, falling back to default profiles: default
+2021-06-07 12:24:28.072  INFO 18080 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8000 (http)
+2021-06-07 12:24:28.078  INFO 18080 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-07 12:24:28.078  INFO 18080 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-07 12:24:28.128  INFO 18080 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-07 12:24:28.128  INFO 18080 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 591 ms
+2021-06-07 12:24:28.371  INFO 18080 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8000 (http) with context path ''
+2021-06-07 12:24:28.379  INFO 18080 --- [main] e.c.CloudStorageServiceServerApplication : Started CloudStorageServiceServerApplication in 1.146 seconds (JVM running for 1.723)
+2021-06-07 12:24:28.381  INFO 18080 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-06-07 12:24:28.382  INFO 18080 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-07 12:24:34.089  INFO 18080 --- [http-nio-8000-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-07 12:24:34.089  INFO 18080 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-07 12:24:34.089  INFO 18080 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2021-06-07 12:24:47.279  WARN 18080 --- [http-nio-8000-exec-4] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: "eqw"]
+2021-06-07 12:26:10.257  INFO 18524 --- [main] e.c.CloudStorageServiceServerApplication : Starting CloudStorageServiceServerApplication using Java 16.0.1 on OldCold-PC with PID 18524 (D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server\build\classes\java\main started by Professional in D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server)
+2021-06-07 12:26:10.260  INFO 18524 --- [main] e.c.CloudStorageServiceServerApplication : No active profile set, falling back to default profiles: default
+2021-06-07 12:26:10.814  INFO 18524 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8000 (http)
+2021-06-07 12:26:10.820  INFO 18524 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-07 12:26:10.820  INFO 18524 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-07 12:26:10.868  INFO 18524 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-07 12:26:10.868  INFO 18524 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 573 ms
+2021-06-07 12:26:11.110  INFO 18524 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8000 (http) with context path ''
+2021-06-07 12:26:11.118  INFO 18524 --- [main] e.c.CloudStorageServiceServerApplication : Started CloudStorageServiceServerApplication in 1.086 seconds (JVM running for 1.664)
+2021-06-07 12:26:11.119  INFO 18524 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-06-07 12:26:11.120  INFO 18524 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-07 12:26:13.445  INFO 18524 --- [http-nio-8000-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-07 12:26:13.445  INFO 18524 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-07 12:26:13.446  INFO 18524 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2021-06-07 12:26:13.469  WARN 18524 --- [http-nio-8000-exec-1] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: "eqw"]
+2021-06-07 12:26:47.654  INFO 9580 --- [main] e.c.CloudStorageServiceServerApplication : Starting CloudStorageServiceServerApplication using Java 16.0.1 on OldCold-PC with PID 9580 (D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server\build\classes\java\main started by Professional in D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server)
+2021-06-07 12:26:47.656  INFO 9580 --- [main] e.c.CloudStorageServiceServerApplication : No active profile set, falling back to default profiles: default
+2021-06-07 12:26:48.260  INFO 9580 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8000 (http)
+2021-06-07 12:26:48.267  INFO 9580 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-07 12:26:48.267  INFO 9580 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-07 12:26:48.317  INFO 9580 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-07 12:26:48.318  INFO 9580 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 629 ms
+2021-06-07 12:26:48.564  INFO 9580 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8000 (http) with context path ''
+2021-06-07 12:26:48.572  INFO 9580 --- [main] e.c.CloudStorageServiceServerApplication : Started CloudStorageServiceServerApplication in 1.149 seconds (JVM running for 1.706)
+2021-06-07 12:26:48.573  INFO 9580 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-06-07 12:26:48.574  INFO 9580 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-07 12:26:52.594  INFO 9580 --- [http-nio-8000-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-07 12:26:52.594  INFO 9580 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-07 12:26:52.595  INFO 9580 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2021-06-07 12:26:58.201  INFO 12136 --- [main] e.c.CloudStorageServiceServerApplication : Starting CloudStorageServiceServerApplication using Java 16.0.1 on OldCold-PC with PID 12136 (D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server\build\classes\java\main started by Professional in D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server)
+2021-06-07 12:26:58.202  INFO 12136 --- [main] e.c.CloudStorageServiceServerApplication : No active profile set, falling back to default profiles: default
+2021-06-07 12:26:58.757  INFO 12136 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8000 (http)
+2021-06-07 12:26:58.763  INFO 12136 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-07 12:26:58.763  INFO 12136 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-07 12:26:58.812  INFO 12136 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-07 12:26:58.813  INFO 12136 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 577 ms
+2021-06-07 12:26:59.052  INFO 12136 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8000 (http) with context path ''
+2021-06-07 12:26:59.060  INFO 12136 --- [main] e.c.CloudStorageServiceServerApplication : Started CloudStorageServiceServerApplication in 1.083 seconds (JVM running for 1.628)
+2021-06-07 12:26:59.062  INFO 12136 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-06-07 12:26:59.063  INFO 12136 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-07 12:31:54.848  INFO 16564 --- [main] e.c.CloudStorageServiceServerApplication : Starting CloudStorageServiceServerApplication using Java 16.0.1 on OldCold-PC with PID 16564 (D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server\build\classes\java\main started by Professional in D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server)
+2021-06-07 12:31:54.849  INFO 16564 --- [main] e.c.CloudStorageServiceServerApplication : No active profile set, falling back to default profiles: default
+2021-06-07 12:31:55.433  INFO 16564 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8000 (http)
+2021-06-07 12:31:55.439  INFO 16564 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-07 12:31:55.440  INFO 16564 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-07 12:31:55.496  INFO 16564 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-07 12:31:55.496  INFO 16564 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 613 ms
+2021-06-07 12:31:55.752  INFO 16564 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8000 (http) with context path ''
+2021-06-07 12:31:55.761  INFO 16564 --- [main] e.c.CloudStorageServiceServerApplication : Started CloudStorageServiceServerApplication in 1.138 seconds (JVM running for 1.685)
+2021-06-07 12:31:55.762  INFO 16564 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-06-07 12:31:55.763  INFO 16564 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-07 12:32:35.693  INFO 16564 --- [http-nio-8000-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-07 12:32:35.694  INFO 16564 --- [http-nio-8000-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-07 12:32:35.694  INFO 16564 --- [http-nio-8000-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2021-06-07 12:38:09.467  INFO 18992 --- [main] e.c.CloudStorageServiceServerApplication : Starting CloudStorageServiceServerApplication using Java 16.0.1 on OldCold-PC with PID 18992 (D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server\build\classes\java\main started by Professional in D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server)
+2021-06-07 12:38:09.469  INFO 18992 --- [main] e.c.CloudStorageServiceServerApplication : No active profile set, falling back to default profiles: default
+2021-06-07 12:38:10.020  INFO 18992 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8000 (http)
+2021-06-07 12:38:10.026  INFO 18992 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-07 12:38:10.026  INFO 18992 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-07 12:38:10.075  INFO 18992 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-07 12:38:10.075  INFO 18992 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 572 ms
+2021-06-07 12:38:10.317  INFO 18992 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8000 (http) with context path ''
+2021-06-07 12:38:10.325  INFO 18992 --- [main] e.c.CloudStorageServiceServerApplication : Started CloudStorageServiceServerApplication in 1.08 seconds (JVM running for 1.583)
+2021-06-07 12:38:10.326  INFO 18992 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-06-07 12:38:10.327  INFO 18992 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-07 12:40:18.884  INFO 8736 --- [main] e.c.CloudStorageServiceServerApplication : Starting CloudStorageServiceServerApplication using Java 16.0.1 on OldCold-PC with PID 8736 (D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server\build\classes\java\main started by Professional in D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server)
+2021-06-07 12:40:18.886  INFO 8736 --- [main] e.c.CloudStorageServiceServerApplication : No active profile set, falling back to default profiles: default
+2021-06-07 12:40:19.453  INFO 8736 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8000 (http)
+2021-06-07 12:40:19.459  INFO 8736 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-07 12:40:19.460  INFO 8736 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-07 12:40:19.508  INFO 8736 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-07 12:40:19.508  INFO 8736 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 587 ms
+2021-06-07 12:40:19.751  INFO 8736 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8000 (http) with context path ''
+2021-06-07 12:40:19.760  INFO 8736 --- [main] e.c.CloudStorageServiceServerApplication : Started CloudStorageServiceServerApplication in 1.123 seconds (JVM running for 1.688)
+2021-06-07 12:40:19.761  INFO 8736 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-06-07 12:40:19.762  INFO 8736 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-07 12:40:24.129  INFO 8736 --- [http-nio-8000-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-07 12:40:24.129  INFO 8736 --- [http-nio-8000-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-07 12:40:24.130  INFO 8736 --- [http-nio-8000-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2021-06-07 13:03:03.001  INFO 20488 --- [main] e.c.CloudStorageServiceServerApplication : Starting CloudStorageServiceServerApplication using Java 16.0.1 on OldCold-PC with PID 20488 (D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server\build\classes\java\main started by Professional in D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server)
+2021-06-07 13:03:03.002  INFO 20488 --- [main] e.c.CloudStorageServiceServerApplication : No active profile set, falling back to default profiles: default
+2021-06-07 13:03:03.555  INFO 20488 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8000 (http)
+2021-06-07 13:03:03.562  INFO 20488 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-07 13:03:03.562  INFO 20488 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-07 13:03:03.609  INFO 20488 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-07 13:03:03.609  INFO 20488 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 573 ms
+2021-06-07 13:03:03.849  INFO 20488 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8000 (http) with context path ''
+2021-06-07 13:03:03.857  INFO 20488 --- [main] e.c.CloudStorageServiceServerApplication : Started CloudStorageServiceServerApplication in 1.08 seconds (JVM running for 1.562)
+2021-06-07 13:03:03.858  INFO 20488 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-06-07 13:03:03.859  INFO 20488 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-07 13:03:08.129  INFO 20488 --- [http-nio-8000-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-07 13:03:08.129  INFO 20488 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-07 13:03:08.129  INFO 20488 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2021-06-07 13:03:15.045 ERROR 20488 --- [http-nio-8000-exec-2] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+
+java.lang.NullPointerException: null
+	at java.base/java.util.Objects.requireNonNull(Objects.java:208)
+	at com.example.cloud_storage_service_server.entities.CloudStorage.storageNavigation(CloudStorage.java:34)
+	at com.example.cloud_storage_service_server.controllers.ViewController.viewUserDate(ViewController.java:19)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:197)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:141)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:894)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1063)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:893)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1707)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+
+2021-06-07 13:04:43.984  INFO 13304 --- [main] e.c.CloudStorageServiceServerApplication : Starting CloudStorageServiceServerApplication using Java 16.0.1 on OldCold-PC with PID 13304 (D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server\build\classes\java\main started by Professional in D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server)
+2021-06-07 13:04:43.986  INFO 13304 --- [main] e.c.CloudStorageServiceServerApplication : No active profile set, falling back to default profiles: default
+2021-06-07 13:04:44.548  INFO 13304 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8000 (http)
+2021-06-07 13:04:44.554  INFO 13304 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-07 13:04:44.555  INFO 13304 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-07 13:04:44.603  INFO 13304 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-07 13:04:44.603  INFO 13304 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 583 ms
+2021-06-07 13:04:44.848  INFO 13304 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8000 (http) with context path ''
+2021-06-07 13:04:44.857  INFO 13304 --- [main] e.c.CloudStorageServiceServerApplication : Started CloudStorageServiceServerApplication in 1.096 seconds (JVM running for 1.605)
+2021-06-07 13:04:44.858  INFO 13304 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-06-07 13:04:44.859  INFO 13304 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-07 13:04:48.642  INFO 13304 --- [http-nio-8000-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-07 13:04:48.642  INFO 13304 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-07 13:04:48.643  INFO 13304 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2021-06-07 13:08:20.299  INFO 12712 --- [main] e.c.CloudStorageServiceServerApplication : Starting CloudStorageServiceServerApplication using Java 16.0.1 on OldCold-PC with PID 12712 (D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server\build\classes\java\main started by Professional in D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server)
+2021-06-07 13:08:20.301  INFO 12712 --- [main] e.c.CloudStorageServiceServerApplication : No active profile set, falling back to default profiles: default
+2021-06-07 13:08:21.001  INFO 12712 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8000 (http)
+2021-06-07 13:08:21.010  INFO 12712 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-07 13:08:21.011  INFO 12712 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-07 13:08:21.071  INFO 12712 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-07 13:08:21.071  INFO 12712 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 720 ms
+2021-06-07 13:08:21.350  INFO 12712 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8000 (http) with context path ''
+2021-06-07 13:08:21.359  INFO 12712 --- [main] e.c.CloudStorageServiceServerApplication : Started CloudStorageServiceServerApplication in 1.35 seconds (JVM running for 1.904)
+2021-06-07 13:08:21.360  INFO 12712 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-06-07 13:08:21.361  INFO 12712 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-07 13:08:46.484  INFO 12712 --- [http-nio-8000-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-07 13:08:46.485  INFO 12712 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-07 13:08:46.486  INFO 12712 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2021-06-07 13:33:31.677  INFO 11008 --- [main] e.c.CloudStorageServiceServerApplication : Starting CloudStorageServiceServerApplication using Java 16.0.1 on OldCold-PC with PID 11008 (D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server\build\classes\java\main started by Professional in D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server)
+2021-06-07 13:33:31.678  INFO 11008 --- [main] e.c.CloudStorageServiceServerApplication : No active profile set, falling back to default profiles: default
+2021-06-07 13:33:32.247  INFO 11008 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8000 (http)
+2021-06-07 13:33:32.254  INFO 11008 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-07 13:33:32.254  INFO 11008 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-07 13:33:32.304  INFO 11008 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-07 13:33:32.305  INFO 11008 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 592 ms
+2021-06-07 13:33:32.570  INFO 11008 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8000 (http) with context path ''
+2021-06-07 13:33:32.579  INFO 11008 --- [main] e.c.CloudStorageServiceServerApplication : Started CloudStorageServiceServerApplication in 1.138 seconds (JVM running for 1.637)
+2021-06-07 13:33:32.579  INFO 11008 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-06-07 13:33:32.580  INFO 11008 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-07 13:33:41.105  INFO 11008 --- [http-nio-8000-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-07 13:33:41.105  INFO 11008 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-07 13:33:41.105  INFO 11008 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2021-06-07 13:36:42.754  INFO 316 --- [main] e.c.CloudStorageServiceServerApplication : Starting CloudStorageServiceServerApplication using Java 16.0.1 on OldCold-PC with PID 316 (D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server\build\classes\java\main started by Professional in D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server)
+2021-06-07 13:36:42.755  INFO 316 --- [main] e.c.CloudStorageServiceServerApplication : No active profile set, falling back to default profiles: default
+2021-06-07 13:36:43.315  INFO 316 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8000 (http)
+2021-06-07 13:36:43.321  INFO 316 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-07 13:36:43.321  INFO 316 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-07 13:36:43.370  INFO 316 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-07 13:36:43.370  INFO 316 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 580 ms
+2021-06-07 13:36:43.617  INFO 316 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8000 (http) with context path ''
+2021-06-07 13:36:43.626  INFO 316 --- [main] e.c.CloudStorageServiceServerApplication : Started CloudStorageServiceServerApplication in 1.098 seconds (JVM running for 1.587)
+2021-06-07 13:36:43.627  INFO 316 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-06-07 13:36:43.627  INFO 316 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-07 13:36:47.370  INFO 316 --- [http-nio-8000-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-07 13:36:47.371  INFO 316 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-07 13:36:47.371  INFO 316 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2021-06-07 13:38:19.711  INFO 17396 --- [main] e.c.CloudStorageServiceServerApplication : Starting CloudStorageServiceServerApplication using Java 16.0.1 on OldCold-PC with PID 17396 (D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server\build\classes\java\main started by Professional in D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server)
+2021-06-07 13:38:19.712  INFO 17396 --- [main] e.c.CloudStorageServiceServerApplication : No active profile set, falling back to default profiles: default
+2021-06-07 13:38:20.318  INFO 17396 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8000 (http)
+2021-06-07 13:38:20.324  INFO 17396 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-07 13:38:20.325  INFO 17396 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-07 13:38:20.375  INFO 17396 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-07 13:38:20.376  INFO 17396 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 628 ms
+2021-06-07 13:38:20.633  INFO 17396 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8000 (http) with context path ''
+2021-06-07 13:38:20.641  INFO 17396 --- [main] e.c.CloudStorageServiceServerApplication : Started CloudStorageServiceServerApplication in 1.165 seconds (JVM running for 1.702)
+2021-06-07 13:38:20.643  INFO 17396 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-06-07 13:38:20.643  INFO 17396 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-07 13:38:23.481  INFO 17396 --- [http-nio-8000-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-07 13:38:23.481  INFO 17396 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-07 13:38:23.481  INFO 17396 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2021-06-07 13:39:39.904  INFO 20312 --- [main] e.c.CloudStorageServiceServerApplication : Starting CloudStorageServiceServerApplication using Java 16.0.1 on OldCold-PC with PID 20312 (D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server\build\classes\java\main started by Professional in D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server)
+2021-06-07 13:39:39.906  INFO 20312 --- [main] e.c.CloudStorageServiceServerApplication : No active profile set, falling back to default profiles: default
+2021-06-07 13:39:40.475  INFO 20312 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8000 (http)
+2021-06-07 13:39:40.481  INFO 20312 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-07 13:39:40.482  INFO 20312 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-07 13:39:40.534  INFO 20312 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-07 13:39:40.534  INFO 20312 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 593 ms
+2021-06-07 13:39:40.816  INFO 20312 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8000 (http) with context path ''
+2021-06-07 13:39:40.824  INFO 20312 --- [main] e.c.CloudStorageServiceServerApplication : Started CloudStorageServiceServerApplication in 1.142 seconds (JVM running for 1.676)
+2021-06-07 13:39:40.826  INFO 20312 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-06-07 13:39:40.826  INFO 20312 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-07 13:39:43.400  INFO 20312 --- [http-nio-8000-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-07 13:39:43.401  INFO 20312 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-07 13:39:43.401  INFO 20312 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2021-06-07 13:41:12.678  INFO 5536 --- [main] e.c.CloudStorageServiceServerApplication : Starting CloudStorageServiceServerApplication using Java 16.0.1 on OldCold-PC with PID 5536 (D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server\build\classes\java\main started by Professional in D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server)
+2021-06-07 13:41:12.680  INFO 5536 --- [main] e.c.CloudStorageServiceServerApplication : No active profile set, falling back to default profiles: default
+2021-06-07 13:41:13.293  INFO 5536 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8000 (http)
+2021-06-07 13:41:13.300  INFO 5536 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-07 13:41:13.300  INFO 5536 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-07 13:41:13.351  INFO 5536 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-07 13:41:13.351  INFO 5536 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 632 ms
+2021-06-07 13:41:13.601  INFO 5536 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8000 (http) with context path ''
+2021-06-07 13:41:13.609  INFO 5536 --- [main] e.c.CloudStorageServiceServerApplication : Started CloudStorageServiceServerApplication in 1.177 seconds (JVM running for 1.682)
+2021-06-07 13:41:13.611  INFO 5536 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-06-07 13:41:13.612  INFO 5536 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-07 13:41:17.606  INFO 5536 --- [http-nio-8000-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-07 13:41:17.607  INFO 5536 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-07 13:41:17.608  INFO 5536 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2021-06-07 13:42:35.750  INFO 14172 --- [main] e.c.CloudStorageServiceServerApplication : Starting CloudStorageServiceServerApplication using Java 16.0.1 on OldCold-PC with PID 14172 (D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server\build\classes\java\main started by Professional in D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server)
+2021-06-07 13:42:35.751  INFO 14172 --- [main] e.c.CloudStorageServiceServerApplication : No active profile set, falling back to default profiles: default
+2021-06-07 13:42:36.329  INFO 14172 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8000 (http)
+2021-06-07 13:42:36.335  INFO 14172 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-07 13:42:36.335  INFO 14172 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-07 13:42:36.384  INFO 14172 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-07 13:42:36.385  INFO 14172 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 588 ms
+2021-06-07 13:42:36.630  INFO 14172 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8000 (http) with context path ''
+2021-06-07 13:42:36.638  INFO 14172 --- [main] e.c.CloudStorageServiceServerApplication : Started CloudStorageServiceServerApplication in 1.114 seconds (JVM running for 1.644)
+2021-06-07 13:42:36.640  INFO 14172 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-06-07 13:42:36.641  INFO 14172 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-07 13:42:42.380  INFO 14172 --- [http-nio-8000-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-07 13:42:42.380  INFO 14172 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-07 13:42:42.381  INFO 14172 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2021-06-07 13:48:53.110  INFO 3504 --- [main] e.c.CloudStorageServiceServerApplication : Starting CloudStorageServiceServerApplication using Java 16.0.1 on OldCold-PC with PID 3504 (D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server\build\classes\java\main started by Professional in D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server)
+2021-06-07 13:48:53.112  INFO 3504 --- [main] e.c.CloudStorageServiceServerApplication : No active profile set, falling back to default profiles: default
+2021-06-07 13:48:53.691  INFO 3504 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8000 (http)
+2021-06-07 13:48:53.698  INFO 3504 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-07 13:48:53.698  INFO 3504 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-07 13:48:53.749  INFO 3504 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-07 13:48:53.749  INFO 3504 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 602 ms
+2021-06-07 13:48:54.001  INFO 3504 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8000 (http) with context path ''
+2021-06-07 13:48:54.009  INFO 3504 --- [main] e.c.CloudStorageServiceServerApplication : Started CloudStorageServiceServerApplication in 1.131 seconds (JVM running for 1.639)
+2021-06-07 13:48:54.010  INFO 3504 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-06-07 13:48:54.011  INFO 3504 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-07 13:48:59.100  INFO 3504 --- [http-nio-8000-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-07 13:48:59.100  INFO 3504 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-07 13:48:59.101  INFO 3504 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2021-06-07 20:47:19.794  INFO 2576 --- [main] e.c.CloudStorageServiceServerApplication : Starting CloudStorageServiceServerApplication using Java 16.0.1 on OldCold-PC with PID 2576 (D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server\build\classes\java\main started by Professional in D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server)
+2021-06-07 20:47:19.799  INFO 2576 --- [main] e.c.CloudStorageServiceServerApplication : No active profile set, falling back to default profiles: default
+2021-06-07 20:47:20.490  INFO 2576 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8000 (http)
+2021-06-07 20:47:20.497  INFO 2576 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-07 20:47:20.498  INFO 2576 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-07 20:47:20.549  INFO 2576 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-07 20:47:20.549  INFO 2576 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 714 ms
+2021-06-07 20:47:20.805  INFO 2576 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8000 (http) with context path ''
+2021-06-07 20:47:20.814  INFO 2576 --- [main] e.c.CloudStorageServiceServerApplication : Started CloudStorageServiceServerApplication in 1.268 seconds (JVM running for 1.834)
+2021-06-07 20:47:20.815  INFO 2576 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-06-07 20:47:20.816  INFO 2576 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-07 20:47:24.671  INFO 2576 --- [http-nio-8000-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-07 20:47:24.672  INFO 2576 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-07 20:47:24.672  INFO 2576 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2021-06-07 20:47:36.189  WARN 2576 --- [http-nio-8000-exec-3] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2021-06-07 20:47:57.970  INFO 21692 --- [main] e.c.CloudStorageServiceServerApplication : Starting CloudStorageServiceServerApplication using Java 16.0.1 on OldCold-PC with PID 21692 (D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server\build\classes\java\main started by Professional in D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server)
+2021-06-07 20:47:57.971  INFO 21692 --- [main] e.c.CloudStorageServiceServerApplication : No active profile set, falling back to default profiles: default
+2021-06-07 20:47:58.553  INFO 21692 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8000 (http)
+2021-06-07 20:47:58.560  INFO 21692 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-07 20:47:58.560  INFO 21692 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-07 20:47:58.608  INFO 21692 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-07 20:47:58.608  INFO 21692 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 602 ms
+2021-06-07 20:47:58.862  INFO 21692 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8000 (http) with context path ''
+2021-06-07 20:47:58.871  INFO 21692 --- [main] e.c.CloudStorageServiceServerApplication : Started CloudStorageServiceServerApplication in 1.131 seconds (JVM running for 1.626)
+2021-06-07 20:47:58.872  INFO 21692 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-06-07 20:47:58.872  INFO 21692 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-07 20:48:03.064  INFO 21692 --- [http-nio-8000-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-07 20:48:03.064  INFO 21692 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-07 20:48:03.065  INFO 21692 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2021-06-07 20:49:14.265  INFO 17512 --- [main] e.c.CloudStorageServiceServerApplication : Starting CloudStorageServiceServerApplication using Java 16.0.1 on OldCold-PC with PID 17512 (D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server\build\classes\java\main started by Professional in D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server)
+2021-06-07 20:49:14.267  INFO 17512 --- [main] e.c.CloudStorageServiceServerApplication : No active profile set, falling back to default profiles: default
+2021-06-07 20:49:14.852  INFO 17512 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8000 (http)
+2021-06-07 20:49:14.859  INFO 17512 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-07 20:49:14.859  INFO 17512 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-07 20:49:14.914  INFO 17512 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-07 20:49:14.914  INFO 17512 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 611 ms
+2021-06-07 20:49:15.179  INFO 17512 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8000 (http) with context path ''
+2021-06-07 20:49:15.188  INFO 17512 --- [main] e.c.CloudStorageServiceServerApplication : Started CloudStorageServiceServerApplication in 1.162 seconds (JVM running for 1.677)
+2021-06-07 20:49:15.188  INFO 17512 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-06-07 20:49:15.190  INFO 17512 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-07 20:53:21.865  INFO 18892 --- [main] e.c.CloudStorageServiceServerApplication : Starting CloudStorageServiceServerApplication using Java 16.0.1 on OldCold-PC with PID 18892 (D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server\build\classes\java\main started by Professional in D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server)
+2021-06-07 20:53:21.867  INFO 18892 --- [main] e.c.CloudStorageServiceServerApplication : No active profile set, falling back to default profiles: default
+2021-06-07 20:53:22.474  INFO 18892 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8000 (http)
+2021-06-07 20:53:22.481  INFO 18892 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-07 20:53:22.481  INFO 18892 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-07 20:53:22.530  INFO 18892 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-07 20:53:22.530  INFO 18892 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 624 ms
+2021-06-07 20:53:22.795  INFO 18892 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8000 (http) with context path ''
+2021-06-07 20:53:22.804  INFO 18892 --- [main] e.c.CloudStorageServiceServerApplication : Started CloudStorageServiceServerApplication in 1.204 seconds (JVM running for 1.864)
+2021-06-07 20:53:22.805  INFO 18892 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-06-07 20:53:22.806  INFO 18892 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-07 21:06:25.334  INFO 18892 --- [http-nio-8000-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-07 21:06:25.334  INFO 18892 --- [http-nio-8000-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-07 21:06:25.335  INFO 18892 --- [http-nio-8000-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2021-06-07 21:06:38.695  WARN 18892 --- [http-nio-8000-exec-3] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2021-06-07 21:11:57.123  INFO 23544 --- [main] e.c.CloudStorageServiceServerApplication : Starting CloudStorageServiceServerApplication using Java 16.0.1 on OldCold-PC with PID 23544 (D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server\build\classes\java\main started by Professional in D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server)
+2021-06-07 21:11:57.126  INFO 23544 --- [main] e.c.CloudStorageServiceServerApplication : No active profile set, falling back to default profiles: default
+2021-06-07 21:11:57.710  INFO 23544 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8000 (http)
+2021-06-07 21:11:57.716  INFO 23544 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-07 21:11:57.717  INFO 23544 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-07 21:11:57.766  INFO 23544 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-07 21:11:57.767  INFO 23544 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 607 ms
+2021-06-07 21:11:58.018  INFO 23544 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8000 (http) with context path ''
+2021-06-07 21:11:58.026  INFO 23544 --- [main] e.c.CloudStorageServiceServerApplication : Started CloudStorageServiceServerApplication in 1.134 seconds (JVM running for 1.619)
+2021-06-07 21:11:58.027  INFO 23544 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-06-07 21:11:58.028  INFO 23544 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-07 21:13:55.241  INFO 23544 --- [http-nio-8000-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-07 21:13:55.241  INFO 23544 --- [http-nio-8000-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-07 21:13:55.242  INFO 23544 --- [http-nio-8000-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2021-06-07 21:13:55.251  WARN 23544 --- [http-nio-8000-exec-2] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'DELETE' not supported]
+2021-06-07 21:14:32.140  INFO 21220 --- [main] e.c.CloudStorageServiceServerApplication : Starting CloudStorageServiceServerApplication using Java 16.0.1 on OldCold-PC with PID 21220 (D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server\build\classes\java\main started by Professional in D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server)
+2021-06-07 21:14:32.142  INFO 21220 --- [main] e.c.CloudStorageServiceServerApplication : No active profile set, falling back to default profiles: default
+2021-06-07 21:14:32.717  INFO 21220 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8000 (http)
+2021-06-07 21:14:32.723  INFO 21220 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-07 21:14:32.724  INFO 21220 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-07 21:14:32.772  INFO 21220 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-07 21:14:32.773  INFO 21220 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 593 ms
+2021-06-07 21:14:33.024  INFO 21220 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8000 (http) with context path ''
+2021-06-07 21:14:33.032  INFO 21220 --- [main] e.c.CloudStorageServiceServerApplication : Started CloudStorageServiceServerApplication in 1.122 seconds (JVM running for 1.654)
+2021-06-07 21:14:33.033  INFO 21220 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-06-07 21:14:33.034  INFO 21220 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-07 21:17:05.852  INFO 20288 --- [main] e.c.CloudStorageServiceServerApplication : Starting CloudStorageServiceServerApplication using Java 16.0.1 on OldCold-PC with PID 20288 (D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server\build\classes\java\main started by Professional in D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server)
+2021-06-07 21:17:05.854  INFO 20288 --- [main] e.c.CloudStorageServiceServerApplication : No active profile set, falling back to default profiles: default
+2021-06-07 21:17:06.440  INFO 20288 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8000 (http)
+2021-06-07 21:17:06.446  INFO 20288 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-07 21:17:06.447  INFO 20288 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-07 21:17:06.497  INFO 20288 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-07 21:17:06.497  INFO 20288 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 610 ms
+2021-06-07 21:17:06.755  INFO 20288 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8000 (http) with context path ''
+2021-06-07 21:17:06.763  INFO 20288 --- [main] e.c.CloudStorageServiceServerApplication : Started CloudStorageServiceServerApplication in 1.151 seconds (JVM running for 1.645)
+2021-06-07 21:17:06.764  INFO 20288 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-06-07 21:17:06.765  INFO 20288 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-07 21:17:40.528  INFO 20288 --- [http-nio-8000-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-07 21:17:40.528  INFO 20288 --- [http-nio-8000-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-07 21:17:40.548  INFO 20288 --- [http-nio-8000-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2021-06-07 21:17:40.574  WARN 20288 --- [http-nio-8000-exec-2] c.e.c.entities.CloudStorage              : Файл D:\Ucheba\summer_2020\practice\CloudService0720_storage\1\2\3 не создан
+2021-06-07 21:18:11.602  WARN 20288 --- [http-nio-8000-exec-4] c.e.c.entities.CloudStorage              : Файл D:\Ucheba\summer_2020\practice\CloudService0720_storage\1\2\3 не создан
+2021-06-07 21:18:30.122  INFO 23452 --- [main] e.c.CloudStorageServiceServerApplication : Starting CloudStorageServiceServerApplication using Java 16.0.1 on OldCold-PC with PID 23452 (D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server\build\classes\java\main started by Professional in D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server)
+2021-06-07 21:18:30.125  INFO 23452 --- [main] e.c.CloudStorageServiceServerApplication : No active profile set, falling back to default profiles: default
+2021-06-07 21:18:30.708  INFO 23452 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8000 (http)
+2021-06-07 21:18:30.714  INFO 23452 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-07 21:18:30.714  INFO 23452 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-07 21:18:30.763  INFO 23452 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-07 21:18:30.763  INFO 23452 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 603 ms
+2021-06-07 21:18:31.017  INFO 23452 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8000 (http) with context path ''
+2021-06-07 21:18:31.026  INFO 23452 --- [main] e.c.CloudStorageServiceServerApplication : Started CloudStorageServiceServerApplication in 1.145 seconds (JVM running for 1.671)
+2021-06-07 21:18:31.027  INFO 23452 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-06-07 21:18:31.028  INFO 23452 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-07 21:18:35.525  INFO 23452 --- [http-nio-8000-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-07 21:18:35.525  INFO 23452 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-07 21:18:35.526  INFO 23452 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2021-06-07 21:18:35.550  WARN 23452 --- [http-nio-8000-exec-1] c.e.c.entities.CloudStorage              : Путь D:\Ucheba\summer_2020\practice\CloudService0720_storage\1\2\3 не создан
+2021-06-07 21:18:42.653  WARN 23452 --- [http-nio-8000-exec-3] c.e.c.entities.CloudStorage              : Файл D:\Ucheba\summer_2020\practice\CloudService0720_storage\1\2\3 не удален
+2021-06-07 21:19:02.235  INFO 18860 --- [main] e.c.CloudStorageServiceServerApplication : Starting CloudStorageServiceServerApplication using Java 16.0.1 on OldCold-PC with PID 18860 (D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server\build\classes\java\main started by Professional in D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server)
+2021-06-07 21:19:02.237  INFO 18860 --- [main] e.c.CloudStorageServiceServerApplication : No active profile set, falling back to default profiles: default
+2021-06-07 21:19:02.817  INFO 18860 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8000 (http)
+2021-06-07 21:19:02.823  INFO 18860 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-07 21:19:02.823  INFO 18860 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-07 21:19:02.871  INFO 18860 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-07 21:19:02.871  INFO 18860 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 599 ms
+2021-06-07 21:19:03.135  INFO 18860 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8000 (http) with context path ''
+2021-06-07 21:19:03.144  INFO 18860 --- [main] e.c.CloudStorageServiceServerApplication : Started CloudStorageServiceServerApplication in 1.147 seconds (JVM running for 1.662)
+2021-06-07 21:19:03.144  INFO 18860 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-06-07 21:19:03.146  INFO 18860 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-07 21:19:05.555  INFO 18860 --- [http-nio-8000-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-07 21:19:05.555  INFO 18860 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-07 21:19:05.556  INFO 18860 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2021-06-07 21:19:05.574  WARN 18860 --- [http-nio-8000-exec-1] c.e.c.entities.CloudStorage              : Файл D:\Ucheba\summer_2020\practice\CloudService0720_storage\1\2\3 не удален
+2021-06-07 21:21:09.161  INFO 4292 --- [main] e.c.CloudStorageServiceServerApplication : Starting CloudStorageServiceServerApplication using Java 16.0.1 on OldCold-PC with PID 4292 (D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server\build\classes\java\main started by Professional in D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server)
+2021-06-07 21:21:09.163  INFO 4292 --- [main] e.c.CloudStorageServiceServerApplication : No active profile set, falling back to default profiles: default
+2021-06-07 21:21:09.813  INFO 4292 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8000 (http)
+2021-06-07 21:21:09.819  INFO 4292 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-07 21:21:09.820  INFO 4292 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-07 21:21:09.873  INFO 4292 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-07 21:21:09.874  INFO 4292 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 676 ms
+2021-06-07 21:21:10.144  INFO 4292 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8000 (http) with context path ''
+2021-06-07 21:21:10.153  INFO 4292 --- [main] e.c.CloudStorageServiceServerApplication : Started CloudStorageServiceServerApplication in 1.236 seconds (JVM running for 1.772)
+2021-06-07 21:21:10.155  INFO 4292 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-06-07 21:21:10.156  INFO 4292 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-07 21:21:16.314  INFO 4292 --- [http-nio-8000-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-07 21:21:16.314  INFO 4292 --- [http-nio-8000-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-07 21:21:16.315  INFO 4292 --- [http-nio-8000-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2021-06-07 21:21:16.332  WARN 4292 --- [http-nio-8000-exec-2] c.e.c.entities.CloudStorage              : Файл D:\Ucheba\summer_2020\practice\CloudService0720_storage\1\2\3 не удален
+2021-06-07 21:37:40.012  INFO 17472 --- [main] e.c.CloudStorageServiceServerApplication : Starting CloudStorageServiceServerApplication using Java 16.0.1 on OldCold-PC with PID 17472 (D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server\build\classes\java\main started by Professional in D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server)
+2021-06-07 21:37:40.013  INFO 17472 --- [main] e.c.CloudStorageServiceServerApplication : No active profile set, falling back to default profiles: default
+2021-06-07 21:37:40.591  INFO 17472 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8000 (http)
+2021-06-07 21:37:40.597  INFO 17472 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-07 21:37:40.598  INFO 17472 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-07 21:37:40.647  INFO 17472 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-07 21:37:40.647  INFO 17472 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 598 ms
+2021-06-07 21:37:40.897  INFO 17472 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8000 (http) with context path ''
+2021-06-07 21:37:40.906  INFO 17472 --- [main] e.c.CloudStorageServiceServerApplication : Started CloudStorageServiceServerApplication in 1.132 seconds (JVM running for 1.697)
+2021-06-07 21:37:40.906  INFO 17472 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-06-07 21:37:40.907  INFO 17472 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-07 21:37:48.113  INFO 17472 --- [http-nio-8000-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-07 21:37:48.114  INFO 17472 --- [http-nio-8000-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-07 21:37:48.114  INFO 17472 --- [http-nio-8000-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2021-06-07 21:37:48.138  WARN 17472 --- [http-nio-8000-exec-2] c.e.c.entities.CloudStorage              : Путь D:\Ucheba\summer_2020\practice\CloudService0720_storage\1\2\3 не создан
+2021-06-07 21:39:30.257  INFO 23532 --- [main] e.c.CloudStorageServiceServerApplication : Starting CloudStorageServiceServerApplication using Java 16.0.1 on OldCold-PC with PID 23532 (D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server\build\classes\java\main started by Professional in D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server)
+2021-06-07 21:39:30.259  INFO 23532 --- [main] e.c.CloudStorageServiceServerApplication : No active profile set, falling back to default profiles: default
+2021-06-07 21:39:30.833  INFO 23532 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8000 (http)
+2021-06-07 21:39:30.840  INFO 23532 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-07 21:39:30.840  INFO 23532 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-07 21:39:30.889  INFO 23532 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-07 21:39:30.889  INFO 23532 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 594 ms
+2021-06-07 21:39:31.142  INFO 23532 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8000 (http) with context path ''
+2021-06-07 21:39:31.152  INFO 23532 --- [main] e.c.CloudStorageServiceServerApplication : Started CloudStorageServiceServerApplication in 1.13 seconds (JVM running for 1.623)
+2021-06-07 21:39:31.153  INFO 23532 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-06-07 21:39:31.153  INFO 23532 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-07 21:39:36.353  INFO 23532 --- [http-nio-8000-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-07 21:39:36.353  INFO 23532 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-07 21:39:36.354  INFO 23532 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2021-06-07 21:40:09.300  INFO 10016 --- [main] e.c.CloudStorageServiceServerApplication : Starting CloudStorageServiceServerApplication using Java 16.0.1 on OldCold-PC with PID 10016 (D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server\build\classes\java\main started by Professional in D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server)
+2021-06-07 21:40:09.302  INFO 10016 --- [main] e.c.CloudStorageServiceServerApplication : No active profile set, falling back to default profiles: default
+2021-06-07 21:40:09.871  INFO 10016 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8000 (http)
+2021-06-07 21:40:09.877  INFO 10016 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-07 21:40:09.878  INFO 10016 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-07 21:40:09.926  INFO 10016 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-07 21:40:09.926  INFO 10016 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 589 ms
+2021-06-07 21:40:10.182  INFO 10016 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8000 (http) with context path ''
+2021-06-07 21:40:10.198  INFO 10016 --- [main] e.c.CloudStorageServiceServerApplication : Started CloudStorageServiceServerApplication in 1.13 seconds (JVM running for 1.613)
+2021-06-07 21:40:10.200  INFO 10016 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-06-07 21:40:10.201  INFO 10016 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-07 21:40:13.481  INFO 10016 --- [http-nio-8000-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-07 21:40:13.482  INFO 10016 --- [http-nio-8000-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-07 21:40:13.482  INFO 10016 --- [http-nio-8000-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2021-06-07 21:40:28.541  INFO 16420 --- [main] e.c.CloudStorageServiceServerApplication : Starting CloudStorageServiceServerApplication using Java 16.0.1 on OldCold-PC with PID 16420 (D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server\build\classes\java\main started by Professional in D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server)
+2021-06-07 21:40:28.544  INFO 16420 --- [main] e.c.CloudStorageServiceServerApplication : No active profile set, falling back to default profiles: default
+2021-06-07 21:40:29.106  INFO 16420 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8000 (http)
+2021-06-07 21:40:29.112  INFO 16420 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-07 21:40:29.112  INFO 16420 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-07 21:40:29.160  INFO 16420 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-07 21:40:29.160  INFO 16420 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 582 ms
+2021-06-07 21:40:29.406  INFO 16420 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8000 (http) with context path ''
+2021-06-07 21:40:29.414  INFO 16420 --- [main] e.c.CloudStorageServiceServerApplication : Started CloudStorageServiceServerApplication in 1.108 seconds (JVM running for 1.695)
+2021-06-07 21:40:29.415  INFO 16420 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-06-07 21:40:29.416  INFO 16420 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-07 21:40:35.777  INFO 16420 --- [http-nio-8000-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-07 21:40:35.777  INFO 16420 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-07 21:40:35.778  INFO 16420 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2021-06-07 21:42:06.913  INFO 18716 --- [main] e.c.CloudStorageServiceServerApplication : Starting CloudStorageServiceServerApplication using Java 16.0.1 on OldCold-PC with PID 18716 (D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server\build\classes\java\main started by Professional in D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server)
+2021-06-07 21:42:06.915  INFO 18716 --- [main] e.c.CloudStorageServiceServerApplication : No active profile set, falling back to default profiles: default
+2021-06-07 21:42:07.531  INFO 18716 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8000 (http)
+2021-06-07 21:42:07.538  INFO 18716 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-07 21:42:07.539  INFO 18716 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-07 21:42:07.591  INFO 18716 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-07 21:42:07.591  INFO 18716 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 640 ms
+2021-06-07 21:42:07.857  INFO 18716 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8000 (http) with context path ''
+2021-06-07 21:42:07.865  INFO 18716 --- [main] e.c.CloudStorageServiceServerApplication : Started CloudStorageServiceServerApplication in 1.193 seconds (JVM running for 1.7)
+2021-06-07 21:42:07.866  INFO 18716 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-06-07 21:42:07.868  INFO 18716 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-07 21:42:16.846  INFO 18716 --- [http-nio-8000-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-07 21:42:16.847  INFO 18716 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-07 21:42:16.847  INFO 18716 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2021-06-07 21:43:04.819  INFO 22024 --- [main] e.c.CloudStorageServiceServerApplication : Starting CloudStorageServiceServerApplication using Java 16.0.1 on OldCold-PC with PID 22024 (D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server\build\classes\java\main started by Professional in D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server)
+2021-06-07 21:43:04.820  INFO 22024 --- [main] e.c.CloudStorageServiceServerApplication : No active profile set, falling back to default profiles: default
+2021-06-07 21:43:05.404  INFO 22024 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8000 (http)
+2021-06-07 21:43:05.411  INFO 22024 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-07 21:43:05.411  INFO 22024 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-07 21:43:05.461  INFO 22024 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-07 21:43:05.461  INFO 22024 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 606 ms
+2021-06-07 21:43:05.708  INFO 22024 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8000 (http) with context path ''
+2021-06-07 21:43:05.716  INFO 22024 --- [main] e.c.CloudStorageServiceServerApplication : Started CloudStorageServiceServerApplication in 1.124 seconds (JVM running for 1.628)
+2021-06-07 21:43:05.717  INFO 22024 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-06-07 21:43:05.718  INFO 22024 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-07 21:43:08.905  INFO 22024 --- [http-nio-8000-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-07 21:43:08.905  INFO 22024 --- [http-nio-8000-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-07 21:43:08.906  INFO 22024 --- [http-nio-8000-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2021-06-07 21:43:41.718  INFO 10832 --- [main] e.c.CloudStorageServiceServerApplication : Starting CloudStorageServiceServerApplication using Java 16.0.1 on OldCold-PC with PID 10832 (D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server\build\classes\java\main started by Professional in D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server)
+2021-06-07 21:43:41.719  INFO 10832 --- [main] e.c.CloudStorageServiceServerApplication : No active profile set, falling back to default profiles: default
+2021-06-07 21:43:42.331  INFO 10832 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8000 (http)
+2021-06-07 21:43:42.338  INFO 10832 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-07 21:43:42.338  INFO 10832 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-07 21:43:42.389  INFO 10832 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-07 21:43:42.389  INFO 10832 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 634 ms
+2021-06-07 21:43:42.655  INFO 10832 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8000 (http) with context path ''
+2021-06-07 21:43:42.663  INFO 10832 --- [main] e.c.CloudStorageServiceServerApplication : Started CloudStorageServiceServerApplication in 1.178 seconds (JVM running for 1.678)
+2021-06-07 21:43:42.664  INFO 10832 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-06-07 21:43:42.665  INFO 10832 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-07 21:43:46.631  INFO 10832 --- [http-nio-8000-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-07 21:43:46.631  INFO 10832 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-07 21:43:46.632  INFO 10832 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2021-06-07 21:48:56.863  INFO 22888 --- [main] e.c.CloudStorageServiceServerApplication : Starting CloudStorageServiceServerApplication using Java 16.0.1 on OldCold-PC with PID 22888 (D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server\build\classes\java\main started by Professional in D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server)
+2021-06-07 21:48:56.865  INFO 22888 --- [main] e.c.CloudStorageServiceServerApplication : No active profile set, falling back to default profiles: default
+2021-06-07 21:48:57.482  INFO 22888 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8000 (http)
+2021-06-07 21:48:57.489  INFO 22888 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-07 21:48:57.489  INFO 22888 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-07 21:48:57.542  INFO 22888 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-07 21:48:57.542  INFO 22888 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 633 ms
+2021-06-07 21:48:57.812  INFO 22888 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8000 (http) with context path ''
+2021-06-07 21:48:57.825  INFO 22888 --- [main] e.c.CloudStorageServiceServerApplication : Started CloudStorageServiceServerApplication in 1.197 seconds (JVM running for 1.734)
+2021-06-07 21:48:57.826  INFO 22888 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-06-07 21:48:57.829  INFO 22888 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-07 21:49:42.587  INFO 22888 --- [http-nio-8000-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-07 21:49:42.587  INFO 22888 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-07 21:49:42.587  INFO 22888 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2021-06-07 21:50:05.545  INFO 20536 --- [main] e.c.CloudStorageServiceServerApplication : Starting CloudStorageServiceServerApplication using Java 16.0.1 on OldCold-PC with PID 20536 (D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server\build\classes\java\main started by Professional in D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server)
+2021-06-07 21:50:05.546  INFO 20536 --- [main] e.c.CloudStorageServiceServerApplication : No active profile set, falling back to default profiles: default
+2021-06-07 21:50:06.109  INFO 20536 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8000 (http)
+2021-06-07 21:50:06.115  INFO 20536 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-07 21:50:06.116  INFO 20536 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-07 21:50:06.166  INFO 20536 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-07 21:50:06.166  INFO 20536 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 586 ms
+2021-06-07 21:50:06.414  INFO 20536 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8000 (http) with context path ''
+2021-06-07 21:50:06.423  INFO 20536 --- [main] e.c.CloudStorageServiceServerApplication : Started CloudStorageServiceServerApplication in 1.105 seconds (JVM running for 1.598)
+2021-06-07 21:50:06.424  INFO 20536 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-06-07 21:50:06.425  INFO 20536 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-07 21:50:25.068  INFO 20536 --- [http-nio-8000-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-07 21:50:25.068  INFO 20536 --- [http-nio-8000-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-07 21:50:25.069  INFO 20536 --- [http-nio-8000-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2021-06-07 21:50:49.520  INFO 5484 --- [main] e.c.CloudStorageServiceServerApplication : Starting CloudStorageServiceServerApplication using Java 16.0.1 on OldCold-PC with PID 5484 (D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server\build\classes\java\main started by Professional in D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server)
+2021-06-07 21:50:49.522  INFO 5484 --- [main] e.c.CloudStorageServiceServerApplication : No active profile set, falling back to default profiles: default
+2021-06-07 21:50:50.123  INFO 5484 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8000 (http)
+2021-06-07 21:50:50.129  INFO 5484 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-07 21:50:50.129  INFO 5484 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-07 21:50:50.177  INFO 5484 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-07 21:50:50.178  INFO 5484 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 619 ms
+2021-06-07 21:50:50.427  INFO 5484 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8000 (http) with context path ''
+2021-06-07 21:50:50.435  INFO 5484 --- [main] e.c.CloudStorageServiceServerApplication : Started CloudStorageServiceServerApplication in 1.154 seconds (JVM running for 1.712)
+2021-06-07 21:50:50.436  INFO 5484 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-06-07 21:50:50.437  INFO 5484 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-07 21:50:53.333  INFO 5484 --- [http-nio-8000-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-07 21:50:53.333  INFO 5484 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-07 21:50:53.334  INFO 5484 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2021-06-07 21:53:28.116  INFO 9784 --- [main] e.c.CloudStorageServiceServerApplication : Starting CloudStorageServiceServerApplication using Java 16.0.1 on OldCold-PC with PID 9784 (D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server\build\classes\java\main started by Professional in D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server)
+2021-06-07 21:53:28.118  INFO 9784 --- [main] e.c.CloudStorageServiceServerApplication : No active profile set, falling back to default profiles: default
+2021-06-07 21:53:28.695  INFO 9784 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8000 (http)
+2021-06-07 21:53:28.701  INFO 9784 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-07 21:53:28.701  INFO 9784 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-07 21:53:28.749  INFO 9784 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-07 21:53:28.750  INFO 9784 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 595 ms
+2021-06-07 21:53:29.023  INFO 9784 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8000 (http) with context path ''
+2021-06-07 21:53:29.032  INFO 9784 --- [main] e.c.CloudStorageServiceServerApplication : Started CloudStorageServiceServerApplication in 1.143 seconds (JVM running for 1.646)
+2021-06-07 21:53:29.033  INFO 9784 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-06-07 21:53:29.035  INFO 9784 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-07 21:53:48.310  INFO 9784 --- [http-nio-8000-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-07 21:53:48.310  INFO 9784 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-07 21:53:48.311  INFO 9784 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2021-06-07 21:56:47.584  INFO 12092 --- [main] e.c.CloudStorageServiceServerApplication : Starting CloudStorageServiceServerApplication using Java 16.0.1 on OldCold-PC with PID 12092 (D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server\build\classes\java\main started by Professional in D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server)
+2021-06-07 21:56:47.586  INFO 12092 --- [main] e.c.CloudStorageServiceServerApplication : No active profile set, falling back to default profiles: default
+2021-06-07 21:56:48.166  INFO 12092 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8000 (http)
+2021-06-07 21:56:48.173  INFO 12092 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-07 21:56:48.173  INFO 12092 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-07 21:56:48.222  INFO 12092 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-07 21:56:48.222  INFO 12092 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 599 ms
+2021-06-07 21:56:48.471  INFO 12092 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8000 (http) with context path ''
+2021-06-07 21:56:48.480  INFO 12092 --- [main] e.c.CloudStorageServiceServerApplication : Started CloudStorageServiceServerApplication in 1.123 seconds (JVM running for 1.698)
+2021-06-07 21:56:48.481  INFO 12092 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-06-07 21:56:48.482  INFO 12092 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-07 21:56:52.045  INFO 12092 --- [http-nio-8000-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-07 21:56:52.045  INFO 12092 --- [http-nio-8000-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-07 21:56:52.046  INFO 12092 --- [http-nio-8000-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2021-06-07 21:57:02.639  INFO 2908 --- [main] e.c.CloudStorageServiceServerApplication : Starting CloudStorageServiceServerApplication using Java 16.0.1 on OldCold-PC with PID 2908 (D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server\build\classes\java\main started by Professional in D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server)
+2021-06-07 21:57:02.641  INFO 2908 --- [main] e.c.CloudStorageServiceServerApplication : No active profile set, falling back to default profiles: default
+2021-06-07 21:57:03.294  INFO 2908 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8000 (http)
+2021-06-07 21:57:03.302  INFO 2908 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-07 21:57:03.302  INFO 2908 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-07 21:57:03.358  INFO 2908 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-07 21:57:03.358  INFO 2908 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 677 ms
+2021-06-07 21:57:03.663  INFO 2908 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8000 (http) with context path ''
+2021-06-07 21:57:03.673  INFO 2908 --- [main] e.c.CloudStorageServiceServerApplication : Started CloudStorageServiceServerApplication in 1.304 seconds (JVM running for 2.473)
+2021-06-07 21:57:03.675  INFO 2908 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-06-07 21:57:03.676  INFO 2908 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-07 21:57:06.485  INFO 2908 --- [http-nio-8000-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-07 21:57:06.485  INFO 2908 --- [http-nio-8000-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-07 21:57:06.486  INFO 2908 --- [http-nio-8000-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2021-06-07 21:57:14.885  WARN 2908 --- [http-nio-8000-exec-6] c.e.c.entities.CloudStorage              : Файла D:\Ucheba\summer_2020\practice\CloudService0720_storage\1\2\3 не существует
+2021-06-07 21:57:36.753  INFO 21876 --- [main] e.c.CloudStorageServiceServerApplication : Starting CloudStorageServiceServerApplication using Java 16.0.1 on OldCold-PC with PID 21876 (D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server\build\classes\java\main started by Professional in D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server)
+2021-06-07 21:57:36.755  INFO 21876 --- [main] e.c.CloudStorageServiceServerApplication : No active profile set, falling back to default profiles: default
+2021-06-07 21:57:37.437  INFO 21876 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8000 (http)
+2021-06-07 21:57:37.445  INFO 21876 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-07 21:57:37.445  INFO 21876 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-07 21:57:37.499  INFO 21876 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-07 21:57:37.499  INFO 21876 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 706 ms
+2021-06-07 21:57:37.777  INFO 21876 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8000 (http) with context path ''
+2021-06-07 21:57:37.787  INFO 21876 --- [main] e.c.CloudStorageServiceServerApplication : Started CloudStorageServiceServerApplication in 1.304 seconds (JVM running for 1.948)
+2021-06-07 21:57:37.788  INFO 21876 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-06-07 21:57:37.789  INFO 21876 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-06-07 21:57:43.580  INFO 21876 --- [http-nio-8000-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-07 21:57:43.580  INFO 21876 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-07 21:57:43.580  INFO 21876 --- [http-nio-8000-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2021-06-07 22:35:33.842  INFO 18532 --- [main] e.c.CloudStorageServiceServerApplication : Starting CloudStorageServiceServerApplication using Java 16.0.1 on OldCold-PC with PID 18532 (D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server\build\classes\java\main started by Professional in D:\Ucheba\FQW\CloudStorageService\cloud_storage_service_server)
+2021-06-07 22:35:33.844  INFO 18532 --- [main] e.c.CloudStorageServiceServerApplication : No active profile set, falling back to default profiles: default
+2021-06-07 22:35:34.409  INFO 18532 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8000 (http)
+2021-06-07 22:35:34.415  INFO 18532 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-07 22:35:34.416  INFO 18532 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-07 22:35:34.464  INFO 18532 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-07 22:35:34.464  INFO 18532 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 585 ms
+2021-06-07 22:35:34.711  INFO 18532 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8000 (http) with context path ''
+2021-06-07 22:35:34.720  INFO 18532 --- [main] e.c.CloudStorageServiceServerApplication : Started CloudStorageServiceServerApplication in 1.109 seconds (JVM running for 1.603)
+2021-06-07 22:35:34.721  INFO 18532 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-06-07 22:35:34.721  INFO 18532 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
