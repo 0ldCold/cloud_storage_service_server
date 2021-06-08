@@ -2,17 +2,21 @@ package com.example.cloud_storage_service_server.entities;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.springframework.core.io.Resource;
+import org.springframework.core.io.UrlResource;
 import org.springframework.util.FileSystemUtils;
 
 import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.net.MalformedURLException;
+import java.nio.file.Path;
 import java.util.*;
 
 public class CloudStorage {
-    private final String storagePath = "D:\\Ucheba\\summer_2020\\practice\\CloudService0720_storage";
-    private static final Logger LOGGER = LoggerFactory.getLogger(CloudStorage.class);
+    public static final String storagePath = "D:\\Ucheba\\summer_2020\\practice\\CloudService0720_storage";
+    public static final Logger LOGGER = LoggerFactory.getLogger(CloudStorage.class);
 
 
     public CloudStorage(){}
@@ -121,6 +125,4 @@ public class CloudStorage {
             }
         } else LOGGER.warn("Файл "+file.getAbsolutePath()+" не удален");
     }
-
-
 }
