@@ -1,4 +1,4 @@
-package com.example.cloud_storage_service_server.controllers;
+package com.example.cloud_storage_service_server.controllers.notes;
 
 import com.example.cloud_storage_service_server.Lib;
 import com.example.cloud_storage_service_server.entities.CloudStorage;
