@@ -12,14 +12,13 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.net.MalformedURLException;
 import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.*;
 
 public class CloudStorage {
     public static final String storagePath = "D:\\Ucheba\\summer_2020\\practice\\CloudService0720_storage";
     public static final Logger LOGGER = LoggerFactory.getLogger(CloudStorage.class);
 
-
-    public CloudStorage(){}
 
     //список файлов в папке
     private File[] getFilesInFolder(String path){
@@ -124,5 +123,39 @@ public class CloudStorage {
                 FileSystemUtils.deleteRecursively(file);
             }
         } else LOGGER.warn("Файл "+file.getAbsolutePath()+" не удален");
+    }
+
+    public boolean fileCheck(String id, String date, String time){
+        File[] files = getFilesInFolder("\\" + id + "\\" + date + "\\" + time);
+        return files != null && files.length > 1;
+    }
+
+    public Resource getResource(String path, String fileName){
+        Path rootLocation = Paths.get(storagePath+path);
+        try {
+            Path file = rootLocation.resolve(fileName);
+            Resource resource = new UrlResource(file.toUri());
+            if (resource.exists() || resource.isReadable()) {
+                return resource;
+            }
+            else {
+                LOGGER.error("Файл " + fileName + " не найден");
+                return null;
+            }
+        }
+        catch (MalformedURLException e) {
+            LOGGER.error("Файл " + fileName + " не найден => " + e);
+            return null;
+        }
+    }
+    public String getFileName(String path){
+        File[] files = getFilesInFolder(path);
+        assert files != null;
+        for (File file : files)
+        {
+            if (!file.getName().equals("text.txt"))
+                return file.getName();
+        }
+        return null;
     }
 }
